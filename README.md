@@ -1,3 +1,4 @@
 # csws-week
+week1 lab
 
-andrew test
+week1.py - contains hello world test
